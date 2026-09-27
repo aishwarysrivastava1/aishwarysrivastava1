@@ -35,15 +35,6 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td align="center" width="25%"><h3>92</h3><sub>pytest tests behind a 3-job CI pipeline<br/><b>Sanchaalan Saathi</b></sub></td>
-<td align="center" width="25%"><h3>3 tiers</h3><sub>LLM fallback: Llama-3.3-70B → GPT-4o mini → rules<br/><b>FinX</b></sub></td>
-<td align="center" width="25%"><h3>90,189</h3><sub>players in an A/B test with a pre-analysis plan<br/><b>Cookie Cats</b></sub></td>
-<td align="center" width="25%"><h3>1.09 %</h3><sub>of 318.9 M parameters trainable via LoRA on WavLM-large<br/><b>NMPSD</b></sub></td>
-</tr>
-</table>
-
 ## 🧭 About me
 
 I'm a Computer Science & Engineering undergraduate at **Thapar Institute of Engineering and Technology** (2023–2027). I like owning a problem end to end: the API, the data model, the ML model, and the analysis that says whether any of it worked.
